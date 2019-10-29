@@ -213,7 +213,7 @@ table {
   max-width: 1440px;
   padding: 40px 0;
   margin: 0 auto;
-  background: url("https://github.com/African-Marketplace/Lambda-BW-2019/blob/master/docs/marketplace-images/city-colorful-commerce.jpg?raw=true");
+  background: url("https://github.com/banksleisha/Lambda-BW-2019-C/blob/master/assets/marketplace-images/city-colorful-commerce.jpg?raw=true");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -286,12 +286,6 @@ table {
   padding-right: 4%;
   padding-top: 9px;
 }
-@media (max-width: 500px) {
-  .container .jay {
-    padding-right: 2%;
-    padding-top: 0;
-  }
-}
 .container .aleesha {
   padding-right: 4%;
 }
@@ -316,23 +310,23 @@ table {
     flex-wrap: wrap;
   }
 }
-.container .leisha {
+.leisha {
   padding-right: 4%;
 }
 @media (max-width: 500px) {
-  .container .leisha {
+  .leisha {
     padding-right: 2%;
   }
 }
-.container .eva {
+.eva {
   padding-right: 4%;
 }
 @media (max-width: 500px) {
-  .container .eva {
+  .eva {
     padding-right: 2%;
   }
 }
-.container .photo-container {
+.photo-container {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -340,19 +334,19 @@ table {
   width: 80%;
   margin: 0 auto;
 }
-.container img {
+img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
 }
 @media (max-width:880px) {
-  .container img {
+  img {
     height: 150px;
     width: 150px;
   }
 }
 @media (max-width: 500px) {
-  .container img {
+  img {
     height: 110px;
     width: 110px;
   }
