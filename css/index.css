@@ -287,6 +287,14 @@ table {
   padding-right: 4%;
   padding-top: 9px;
 }
+@media (max-width: 500px) {
+  .container .jay {
+    display: flex;
+    display: inline;
+    padding-left: 0;
+    padding-top: 0;
+  }
+}
 .container .aleesha {
   padding-right: 4%;
 }
