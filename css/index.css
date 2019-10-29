@@ -202,7 +202,7 @@ table {
 @media (max-width: 500px) {
   * li {
     width: 5px;
-    padding-right: 60px;
+    padding-right: 50px;
   }
 }
 .nav-container {
@@ -226,7 +226,7 @@ table {
 }
 @media (max-width: 500px) {
   .nav-container {
-    width: 380px;
+    width: 340px;
     height: 60px;
   }
 }
